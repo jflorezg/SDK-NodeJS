@@ -1,7 +1,7 @@
 export default {
-  REQUEST_ENDPOINT: 'https://api.cai.tools.sap/v2/request',
+  REQUEST_ENDPOINT: 'https://oxxo.sapcai.eu10.hana.ondemand.com/public/api/v2/request',
   CONVERSE_ENDPOINT: 'https://api.cai.tools.sap/v2/converse',
-  DIALOG_ENDPOINT: 'https://api.cai.tools.sap/build/v1',
+  DIALOG_ENDPOINT: 'https://oxxo.sapcai.eu10.hana.ondemand.com/public/api/build/v1/',
   CONVERSATION_ENDPOINT: 'https://api.cai.tools.sap/connect/v1/messages',
   MESSAGE_ENDPOINT: 'https://api.cai.tools.sap/connect/v1/conversations/:conversation_id/messages',
   TRAIN_ENDPOINT: 'https://api.cai.tools.sap/train/v2',
